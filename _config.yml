@@ -29,7 +29,9 @@ navbar-links:
   Resources:
     - Publications: "http://www.ncbi.nlm.nih.gov/sites/myncbi/16eAirs0oskn/bibliography/48140128/public/?sort=date&direction=ascending"
     - GitHub: "https://github.com/indraadrianto/"
-  Author's home: "https://www.henryford.com/physician-directory/a/adrianto-indra"
+    - ORCID: "https://orcid.org/0000-0002-9973-3057"
+    - Scopus: "https://www.scopus.com/authid/detail.uri?authorId=15022036800"
+  Professional Website: "https://www.henryford.com/physician-directory/a/adrianto-indra"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
