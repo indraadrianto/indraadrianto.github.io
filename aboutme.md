@@ -1,7 +1,6 @@
 ---
 layout: page
-title: About Me
-subtitle: Indra Adrianto, PhD
+title: Indra Adrianto, PhD
 subtitle: Assistant Scientist, Henry Ford Health System, Detroit, MI
 ---
 
