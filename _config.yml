@@ -27,8 +27,8 @@ description: Personal Website
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+    - Publications: "http://www.ncbi.nlm.nih.gov/sites/myncbi/16eAirs0oskn/bibliography/48140128/public/?sort=date&direction=ascending"
+    - GitHub: "https://github.com/indraadrianto/"
   Author's home: "https://www.henryford.com/physician-directory/a/adrianto-indra"
 
 # Image to show in the navigation bar - image must be a square (width = height)
