@@ -12,21 +12,31 @@ My research interests include both traditional and advanced statistics, statisti
 ### Education and Training:
 2009-2012	Post-Doctoral, Oklahoma Medical Research Foundation, Oklahoma City, OK.
 Field of Study: Genetic Epidemiology, Biostatistics, and Bioinformatics.
+
 2008-2008	Post-Doctoral, University of Oklahoma, Norman, OK.
 Field of Study: Machine Learning and Data Mining.
+
 2004-2008	Ph.D., University of Oklahoma, Norman, OK.
 Field of Study: Industrial Engineering.
+
 2001-2003	M.S., University of Oklahoma, Norman, OK.
 Field of Study: Industrial Engineering.
+
 1995-2000 	B.S., Bandung Institute of Technology, Bandung, Indonesia.
 Field of Study: Mechanical Engineering.
 
 ### Positions and Employment:
 2017-present 	Assistant Scientist, Center for Bioinformatics, Department of Public Health Sciences, Henry Ford Health System, Detroit, MI.
+
 2016-2017 	Research Assistant Member (equivalent to Research Assistant Professor), Arthritis and Clinical Immunology Research Program, Oklahoma Medical Research Foundation, Oklahoma City, OK.
+
 2016-2017	Director of Operations, Quantitative Analysis Core, Oklahoma Medical Research Foundation, Oklahoma City, OK.
+
 2014-2017	Adjunct Instructor, Department of Biostatistics and Epidemiology, University of Oklahoma Health Sciences Center, Oklahoma City, OK.
+
 2014-2016	Staff Scientist, Arthritis and Clinical Immunology Research Program, Oklahoma Medical Research Foundation, Oklahoma City, OK.
+
 2012-2014	Associate Staff Scientist, Arthritis and Clinical Immunology Research Program Oklahoma Medical Research Foundation, Oklahoma City, OK.
+
 2009-2012	Associate Research Scientist (Postdoctoral Fellow), Arthritis and Clinical Immunology Research Program, Oklahoma Medical Research Foundation, Oklahoma City, OK.
 
